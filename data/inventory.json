@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Milk",
+    "quantity": "1L",
+    "expiration_date": "2026-07-01",
+    "category": "🥗 Food",
+    "added_date": "2026-06-25"
+  },
+  {
+    "name": "Tofu",
+    "quantity": "1 pack",
+    "expiration_date": "2026-07-02",
+    "category": "🥗 Food",
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Lettuce",
+    "quantity": "1 bag",
+    "expiration_date": "2026-07-02",
+    "category": "🥗 Food",
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Bread",
+    "quantity": "1 loaf",
+    "expiration_date": "2026-07-03",
+    "category": "🥗 Food",
+    "added_date": "2026-06-27"
+  },
+  {
+    "name": "Eggs",
+    "quantity": "6",
+    "expiration_date": "2026-07-05",
+    "category": "🥗 Food",
+    "added_date": "2026-06-25"
+  },
+  {
+    "name": "Carrot",
+    "quantity": "2",
+    "expiration_date": "2026-07-06",
+    "category": "🥗 Food",
+    "added_date": "2026-06-25"
+  },
+  {
+    "name": "Toilet Paper",
+    "quantity": "2 rolls",
+    "expiration_date": "",
+    "category": "🧴 Supplies",
+    "added_date": "2026-06-26"
+  },
+  {
+    "name": "Laundry Detergent",
+    "quantity": "25% remaining",
+    "expiration_date": "",
+    "category": "🧹 Cleaning",
+    "added_date": "2026-06-20"
+  },
+  {
+    "name": "Dish Soap",
+    "quantity": "1 bottle",
+    "expiration_date": "",
+    "category": "🧹 Cleaning",
+    "added_date": "2026-06-22"
+  },
+  {
+    "name": "Trash Bags",
+    "quantity": "3 bags",
+    "expiration_date": "",
+    "category": "🧴 Supplies",
+    "added_date": "2026-06-24"
+  }
+]

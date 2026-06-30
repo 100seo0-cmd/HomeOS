@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Air Conditioner",
+    "icon": "❄️",
+    "maintenance_type": "Filter cleaning",
+    "maintenance_interval_days": 300,
+    "last_maintenance": "2025-08-10"
+  },
+  {
+    "name": "Washing Machine",
+    "icon": "🫧",
+    "maintenance_type": "Tub cleaning",
+    "maintenance_interval_days": 30,
+    "last_maintenance": "2026-05-28"
+  },
+  {
+    "name": "Air Purifier",
+    "icon": "🌬️",
+    "maintenance_type": "Filter replacement",
+    "maintenance_interval_days": 90,
+    "last_maintenance": "2026-04-20"
+  },
+  {
+    "name": "Dryer",
+    "icon": "🌀",
+    "maintenance_type": "Lint filter cleaning",
+    "maintenance_interval_days": 14,
+    "last_maintenance": "2026-06-10"
+  },
+  {
+    "name": "Water Purifier",
+    "icon": "💧",
+    "maintenance_type": "Filter replacement",
+    "maintenance_interval_days": 120,
+    "last_maintenance": "2026-03-15"
+  }
+]

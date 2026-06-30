@@ -1,0 +1,27 @@
+[
+  {
+    "event": "Company onboarding preparation",
+    "date": "2026-07-01",
+    "type": "social"
+  },
+  {
+    "event": "Weekend trip",
+    "date": "2026-07-03",
+    "type": "travel"
+  },
+  {
+    "event": "Return home",
+    "date": "2026-07-05",
+    "type": "travel"
+  },
+  {
+    "event": "Grocery shopping",
+    "date": "2026-07-06",
+    "type": "shopping"
+  },
+  {
+    "event": "Laundry day",
+    "date": "2026-07-08",
+    "type": "general"
+  }
+]

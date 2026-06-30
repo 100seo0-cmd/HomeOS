@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-06-28",
+    "event": "Washed bedding before the rainy week",
+    "icon": "🧺",
+    "category": "inventory"
+  },
+  {
+    "date": "2026-06-26",
+    "event": "Bought toilet paper and trash bags",
+    "icon": "🛒",
+    "category": "inventory"
+  },
+  {
+    "date": "2026-06-24",
+    "event": "Cleaned air conditioner filter",
+    "icon": "❄️",
+    "category": "maintenance"
+  },
+  {
+    "date": "2026-06-20",
+    "event": "Cleaned refrigerator shelf",
+    "icon": "🧹",
+    "category": "inventory"
+  },
+  {
+    "date": "2026-06-18",
+    "event": "Cleaned washing machine tub",
+    "icon": "🫧",
+    "category": "maintenance"
+  },
+  {
+    "date": "2026-06-12",
+    "event": "Replaced water purifier filter",
+    "icon": "💧",
+    "category": "maintenance"
+  }
+]
